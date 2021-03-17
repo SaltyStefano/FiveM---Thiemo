@@ -1,0 +1,71 @@
+﻿{
+  "Token": "NjUyODE3NTA5Njk0NzAxNTY4.Xe88jA.lPYBWQqyx914NSGUEReh1yMqeN0",
+  "MySQL": "server=127.0.0.1;userid=root;password=DJweaLamqD72ryUk;database=essentialmode2",
+  "FiveM": {
+    "Location": "D:\\FXServer\\resources\\",
+    "URL": "play.maaslandrp.nl:30120"
+  },
+  "BanLists": {
+    "EasyAdmin": "[system]\\EasyAdmin\\banlist.json",
+    "AntiCheat": "[ML]\\ML_SYS\\banlist.json"
+  },
+  "Steam": {
+    "Key": "393F27AEF67907874C836BFC2C155FC0"
+  },
+  "BOT": {
+    "MessageStore": "JJWQEUPDURYWBNUNDUHSQXBAJZMQKWGZ"
+  },
+  "RequiredRanks": [
+    "Bot Maasland Bediener"
+  ],
+  "ModRanks": [
+    "💎Beheerder"
+  ],
+  "BlacklistWeapons": [
+    "WEAPON_GRENADELAUNCHER",
+    "WEAPON_RPG",
+    "WEAPON_STINGER",
+    "WEAPON_MINIGUN",
+    "WEAPON_GRENADE",
+    "WEAPON_STICKYBOMB",
+    "WEAPON_RAILGUN",
+    "WEAPON_AUTOSHOTGUN",
+    "WEAPON_COMPACTLAUNCHER",
+    "WEAPON_PIPEBOMB",
+    "WEAPON_PROXMINE",
+    "WEAPON_APPISTOL",
+    "WEAPON_SNSPISTOL",
+    "WEAPON_MARKSMANPISTOL",
+    "WEAPON_MG",
+    "WEAPON_COMBATMG",
+    "WEAPON_ADVANCEDRIFLE",
+    "WEAPON_SWEEPERSHOTGUN",
+    "WEAPON_ASSAULTSHOTGUN",
+    "WEAPON_MUSKET",
+    "WEAPON_HEAVYSHOTGUN",
+    "WEAPON_GRENADELAUNCHER_SMOKE",
+    "WEAPON_FIREWORK",
+    "WEAPON_HOMINGLAUNCHER",
+    "WEAPON_RAYPISTOL",
+    "WEAPON_RAYCARBINE",
+    "WEAPON_RAYMINIGUN",
+    "WEAPON_DIGISCANNER",
+    "WEAPON_SNIPERRIFLE",
+    "WEAPON_HEAVYSNIPER",
+    "WEAPON_MARKSMANRIFLE",
+    "WEAPON_VINTAGEPISTOL",
+    "WEAPON_SMG_MK2",
+    "WEAPON_PISTOL_MK2",
+    "WEAPON_SNSPISTOL_MK2",
+    "WEAPON_REVOLVER_MK2",
+    "WEAPON_DOUBLEACTION",
+    "WEAPON_BULLPUPRIFLE_MK2",
+    "WEAPON_PUMPSHOTGUN_MK2",
+    "WEAPON_MARKSMANRIFLE_MK2",
+    "WEAPON_HEAVYSNIPER_MK2",
+    "WEAPON_COMBATMG_MK2",
+    "WEAPON_ASSAULTRIFLE_MK2",
+    "WEAPON_CARBINERIFLE_MK2",
+    "WEAPON_SPECIALCARBINE_MK2"
+  ]
+}
